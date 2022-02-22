@@ -1,4 +1,5 @@
 {
- "contributors": [  ],
-  "label": "needs-cla-signed"
+ "contributors": "https://ionic.io/cla",
+ "message": "We require contributors to sign our Contributor License Agreement, and we don\"t have  on file. In order for us to review and merge your code, please fill out [this form](https://forms.gle/BoNSFuKrZveTgUm58).",
+ "label": "cla-signed"
 }
