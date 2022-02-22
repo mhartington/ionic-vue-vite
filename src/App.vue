@@ -10,3 +10,4 @@ import { IonApp, IonRouterOutlet } from '@ionic/vue';
 
 <style></style>
 // Test commit PR
+// Another test commit
